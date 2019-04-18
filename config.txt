@@ -1,6 +1,6 @@
-token=NTY4NDExMjk2ODQ0ODczNzMx.XLhsSg.l3h6H253HRKgcMrhHcRufULqS5k
 owner=507892843881168897
 prefix=1
-game=1thelp
+game=Break | 1play
 stayinchannel=true
-songinstatus=true 
+songinstatus=false
+token=NTY4NDExMjk2ODQ0ODczNzMx.XLhsSg.l3h6H253HRKgcMrhHcRufULqS5k
